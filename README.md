@@ -1,0 +1,2 @@
+# ManageEmote
+Official-ManageEmote code.
